@@ -1,0 +1,11 @@
+{
+    "dynamic": "true",
+    "properties": {
+        "time": {"type": "date"},
+        "user_id": {"type": "string", "index" : "not_analyzed"},
+        "avatar_url": {"type": "string", "index" : "not_analyzed"},
+        "sender": {"type": "string", "index" : "not_analyzed"},
+        "message": {"type": "string", "index": "not_analyzed"},
+        "likes": {"type": "integer"}
+    }
+}
