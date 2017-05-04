@@ -1,3 +1,5 @@
+**Note**: originally from [youyanggu/groupme_stats](https://github.com/youyanggu/groupme_stats). This version has some custom scripts written by rhefner.
+
 Download GroupMe Messages
 =============
 
